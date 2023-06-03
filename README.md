@@ -46,11 +46,8 @@ while True:
 # CLIENT OUTPUT :
 ![cl8](https://github.com/JeyaKrishnaSJ/EX-8/assets/118707091/18243239-b8e7-41d2-88e2-cf24890c7518)
 
-
 # SERVER OUTPUT :
-
-
-
+![s8](https://github.com/JeyaKrishnaSJ/EX-8/assets/118707091/e58ae99d-0bdf-4e3b-a282-28f650a6db2f)
 
 # RESULT :
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links
